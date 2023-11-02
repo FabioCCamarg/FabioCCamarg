@@ -1,6 +1,6 @@
 ### Olá! Eu sou Fábio 👋
 
-📚 estudando Spring, Angular, Ionic
+📚 estudando SpringBoot, Angular, Ionic
  <img align="center" alt="Rafa-Js" height="30" width="40" src= "https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png"/>
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" /><br>
